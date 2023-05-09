@@ -22,7 +22,7 @@ permalink: /
 | 日程 | 2023年7月1日(土)〜2日(日)   |
 |-----|-----|
 | <strong>会場</strong>  | 京都府 宇治市 立山城総合運動公園太陽が丘 特設野外ステージ  |
-| 出演者 | 10-FEET,クリープハイプ,04 Limited Sazabys,ANARCHY,ORAGE RANGE,WANIMA,マキシマムザホルモンetc...  |
+| <strong>出演者</strong>  | 10-FEET,クリープハイプ,04 Limited Sazabys,ANARCHY,ORAGE RANGE,WANIMA,マキシマムザホルモンetc...  |
 
 [リンク](https://kyoto-daisakusen.kyoto/23/)
 
