@@ -1,4 +1,4 @@
----
+---*音楽フェス*
 title: "ここにページのタイトル"
 author: default
 permalink: /
